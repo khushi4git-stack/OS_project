@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Projukta Chatterjee | Reg No: 24MIP10085
+# Author: Khushi Gupta | Reg No: 24MIP10111
 
 echo "======================================="
 echo " Open Source Manifesto Generator"
