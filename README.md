@@ -1,7 +1,7 @@
 # OSS Audit Project
 
-Name: Projukta Chatterjee  
-Reg No: 24MIP10085  
+Name: Khushi Gupta
+Reg No: 24MIP10111 
 Software Chosen: Git  
 
 ## Description
