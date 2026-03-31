@@ -1,8 +1,8 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Projukta Chatterjee
+# Author: Khushi Gupta
 
-STUDENT_NAME="Projukta Chatterjee"
+STUDENT_NAME="Khushi Gupta"
 SOFTWARE="Git"
 
 KERNEL=$(uname -r)
